@@ -10,5 +10,7 @@ The data is limited (at least by june 2020), at it is scraped from the MoH repor
    series of images showing COVID19 geo spread in israel and a curve of total positive patients over time.
    
    versions
+   
    Python: 3.7.4
+   
    Geoviews: 1.6.6
